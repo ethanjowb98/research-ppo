@@ -1,0 +1,2 @@
+torch  # Pytorch
+torchvision  # Optional, for computer vision with PyTorch
